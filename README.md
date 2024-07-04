@@ -11,3 +11,14 @@ This project investigates driver behavior profiling
  To run this project, you need to have the following libraries installed:
  - Pandas
  - Matplotlib
+ - Seaborn
+ - scikit-learn (sklearn)
+ - NumPy
+ - SciPy (version 1.4.1 or higher)
+## Contributions
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+- Fork the Project
+- Create your Feature Branch 
+- Commit your Changes 
+- Push to the Branch 
+- Open a Pull Request
