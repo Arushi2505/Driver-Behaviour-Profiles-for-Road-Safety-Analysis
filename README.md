@@ -7,3 +7,7 @@ This project investigates driver behavior profiling
  into the dataset’s characteristics and relationships are gained.
  Future work includes model development and deployment for
  real-world road safety applications.
+ ## Requirements
+ To run this project, you need to have the following libraries installed:
+ - Pandas
+ - Matplotlib
