@@ -15,6 +15,12 @@ This project investigates driver behavior profiling
  - scikit-learn (sklearn)
  - NumPy
  - SciPy (version 1.4.1 or higher)
+## Datasets
+The Datasets folder contains dataset used in the project.
+## Usage
+1. Clone this repository.
+2. Extract the dataset(csv file).
+3. Run the files for data processing and analysis.
 ## Contributions
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 - Fork the Project
@@ -22,3 +28,4 @@ Contributions are what make the open-source community such an amazing place to l
 - Commit your Changes 
 - Push to the Branch 
 - Open a Pull Request
+## License
